@@ -39,9 +39,9 @@ if __name__ == '__main__':
         str = fo.read()
         fo.close()
         print(str)
-        temp = int(st
-                   r)/1000
+        temp = int(str)/1000
         print(temp)
+        
         if state == 0:
             if temp >= midtemp:
                 state = lowon()
