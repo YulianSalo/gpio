@@ -1,2 +1,2 @@
 # gpio
-GPIO works for Raspberry PI
+GPIO that works for Raspberry Pi
